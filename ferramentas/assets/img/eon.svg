@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <title>EON</title>
+  <rect width="32" height="32" rx="8" fill="#1F5FAD"/>
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="3">
+    <path d="M10 9v14M10 9h12M10 23h12M10 16h4" stroke="#fff"/>
+    <path d="M14 16l2.6 2.6L22.5 12.7" stroke="#7BE0A6"/>
+  </g>
+</svg>
